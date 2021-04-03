@@ -1,0 +1,50 @@
+* {
+    background-color: #17202A;
+}
+
+.image{
+    float: left;
+    width: 300px;
+}
+
+.detail{
+    width: 1150px;
+    height: 200px;
+    color: white;
+    float: right;
+    align-items: center;
+    margin-top: 20px;
+    
+}
+
+.free {
+    color: green;
+    font-style: italic;
+}
+
+
+.newheading{
+    width: 250px;
+    height: 30px;
+    float: left;
+}
+
+
+.seooptimization{ 
+    float: right;
+    width: 450px;
+    height: 20px;
+    margin-top: 60px;
+}
+
+
+
+.database{
+    margin-top: 250px;
+    
+}
+
+.DataSecurity{
+    margin-top: 20px;
+  
+}
