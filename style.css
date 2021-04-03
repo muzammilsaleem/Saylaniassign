@@ -4,14 +4,12 @@
 
 .image{
     float: left;
-    width: 300px;
-}
+    margin: 10px;}
 
 .detail{
-    width: 1150px;
+    width: 1300px;
     height: 200px;
     color: white;
-    float: right;
     align-items: center;
     margin-top: 20px;
     
